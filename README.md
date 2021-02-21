@@ -1,0 +1,2 @@
+# Building Escape
+This is my completed version of "Section 4: Building Escape" from the [Unreal Engine C++ Developer: Learn C++ and Make Video Games](https://www.udemy.com/course/unrealcourse/) course.
